@@ -1,0 +1,7 @@
+
+State Machine - |top_timer|timer:timer_seq|pre
+Name pre.s3 pre.s2 pre.s1 pre.s0 
+pre.s0 0 0 0 0 
+pre.s1 0 0 1 1 
+pre.s2 0 1 0 1 
+pre.s3 1 0 0 1 
